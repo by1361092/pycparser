@@ -4,7 +4,7 @@
 # Some utilities used by the parser to create a friendlier AST.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # ------------------------------------------------------------------------------
 
 from typing import Any, cast
