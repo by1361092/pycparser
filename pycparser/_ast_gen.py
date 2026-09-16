@@ -11,7 +11,7 @@
 # Python 2.5 code-base.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # -----------------------------------------------------------------
 import os
 from string import Template
@@ -176,7 +176,7 @@ _PROLOGUE_COMMENT = r"""#-------------------------------------------------------
 # AST Node classes.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 #-----------------------------------------------------------------
 
 """
