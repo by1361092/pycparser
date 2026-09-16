@@ -4,7 +4,7 @@
 # C code generator from pycparser AST nodes.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # ------------------------------------------------------------------------------
 from collections.abc import Callable
 from typing import ClassVar
