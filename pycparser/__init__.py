@@ -5,7 +5,7 @@
 # interacting with pycparser
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # -----------------------------------------------------------------
 __all__ = ["c_ast", "c_lexer", "c_parser"]
 __version__ = "3.00"
