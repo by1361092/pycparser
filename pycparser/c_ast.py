@@ -14,7 +14,7 @@
 # AST Node classes.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # -----------------------------------------------------------------
 
 
