@@ -4,7 +4,7 @@
 # Recursive-descent parser for the C language.
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
-# License: BSD
+# SPDX-License-Identifier: BSD-3-Clause
 # ------------------------------------------------------------------------------
 from dataclasses import dataclass
 from typing import (
